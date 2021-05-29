@@ -1,0 +1,25 @@
+{
+    "name": "fishtail/http",
+    "description": "Http GET and POST methods.",
+    "keywords": [
+        "fishtail",
+        "http",
+        "get",
+        "post"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wenyu",
+            "email": "wenyutech@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fishtail\\": "src/Fishtail"
+        }
+    }
+}
